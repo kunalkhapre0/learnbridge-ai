@@ -1,0 +1,6 @@
+{
+  "name": "KrishiSaathi AI - Multi-Agent Climate Resilience",
+  "description": "Multi-agent climate resilience assistant for smallholder farmers built with AWS Strands Agents SDK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
